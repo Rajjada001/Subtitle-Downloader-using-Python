@@ -1,9 +1,9 @@
 
-import requests
-from bs4 import BeautifulSoup 
+import requests # pip install requests
+from bs4 import BeautifulSoup # pip install bs4
 import os
 import sys
-import zipfile
+import zipfile #pip install zipfile
 
 subtle_link = {}   # Dict. for holding movie names
 
