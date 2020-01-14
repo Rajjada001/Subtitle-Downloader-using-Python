@@ -7,10 +7,10 @@
 ## Requirements
 Install pip  in python folder
 <ul>
-  <li> <a href = "https://pypi.org/project/html5lib/">Install HTML5LIB </a> </li>
-  <li> <a href = "https://pypi.org/project/beautifulsoup4/">Install bs4 </a> </li>
-  <li> <a href = "https://pypi.org/project/zipfile36/">Install ZipFile </a> </li> 
-  <li> <a href = "https://pypi.org/project/requests/">Install requests </a> </li> 
+  <li> <a href = "https://pypi.org/project/html5lib/" target="_blank">Install HTML5LIB </a> </li>
+  <li> <a href = "https://pypi.org/project/beautifulsoup4/" target="_blank">Install bs4 </a> </li>
+  <li> <a href = "https://pypi.org/project/zipfile36/" target="_blank">Install ZipFile </a> </li> 
+  <li> <a href = "https://pypi.org/project/requests/" target="_blank">Install requests </a> </li> 
     
 </ul>
 
